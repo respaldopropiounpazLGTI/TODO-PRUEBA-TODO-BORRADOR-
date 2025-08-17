@@ -1,7 +1,5 @@
 #TRABAJO INTEGRADOR INTRODUCCION A LA PROGRAMACION 1 COMISION B1 PROFESOR :SERGIO EDUARDO TORRE
-# INTEGRANTES:
-#GONZALO TOMAS ARTAZA
-#AARON LAUTARO BENJAMIN ROLON
+# INTEGRANTE:
 #PEREZ CRISTIAN ALEJANDRO           
 #inporta librerias para realizar el algoritmo 
 import time  # Módulo para funciones relacionadas con el tiempo (ej. sleep)
